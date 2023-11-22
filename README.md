@@ -2,7 +2,7 @@
 
 A simple Quiz app for checking your General Knowledge!
 
-[Link](https://) to visit the website.
+[Link](https://quiz-app-uday-das.vercel.app/) to visit the website.
 
 
 
